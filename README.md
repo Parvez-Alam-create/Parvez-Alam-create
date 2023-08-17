@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvez-alam-create&label=Profile%20views&color=0e75b6&style=flat" alt="parvez-alam-create" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvez-alam-create" alt="parvez-alam-create" /></a> </p>
-
 - 🔭 I’m currently working on **Java Prjects**
 
 - 🌱 I’m currently learning **Spring, Spring boot, Microservices, Django, Artificial Intelligence, Machine Learning**
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvez-alam-create&show_icons=true&locale=en&layout=compact" alt="parvez-alam-create" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvez-alam-create&show_icons=true&locale=en" alt="parvez-alam-create" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvez-alam-create&" alt="parvez-alam-create" /></p>
